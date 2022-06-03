@@ -1,0 +1,733 @@
+10:17:24:312 Initialising a new Player: Wiener Wurst
+10:17:24:326 -- Generating Stats for Player: Wiener Wurst
+10:17:24:331 ---- STR: 6 CON: 18
+10:17:24:344 ------------------------------------
+10:17:24:348 -- Generating Attributes for Player: Wiener Wurst
+10:17:24:360 ---- DMG: 7.800000000000001 HEALTH: 54
+10:17:24:363 ------------------------------------
+10:17:24:379 -- Get Skills for Player: Wiener Wurst
+10:17:24:388 -- Selecting random Skills:
+10:17:24:394 ---- Amount of ATK-Skills: 2
+10:17:24:402 ---- Amount of DEF-Skills: 2
+10:17:24:412 ---- Amount of Skills (TOTAL): 4
+10:17:24:416 ------------------------------------
+10:17:24:423 ---- Filling Skill-Slot: 0
+10:17:24:428 ------ Skill selected: {"id":4,"name":"Heal","type":1}
+10:17:24:432 ------ Maximum Skills of type 1: 2
+10:17:24:440 ------ Ready Skills of type 1: 0
+10:17:24:445 -------- Add Skill to Slot (0): {"id":4,"name":"Heal","type":1}
+10:17:24:447 ---- Filling Skill-Slot: 1
+10:17:24:451 ------ Skill selected: {"id":6,"name":"Shield","type":1}
+10:17:24:458 ------ Maximum Skills of type 1: 2
+10:17:24:465 ------ Ready Skills of type 1: 1
+10:17:24:473 -------- Add Skill to Slot (1): {"id":6,"name":"Shield","type":1}
+10:17:24:476 ---- Filling Skill-Slot: 2
+10:17:24:480 ------ Skill selected: {"id":6,"name":"Shield","type":1}
+10:17:24:487 ------ Skill already selected in Slot: 1
+10:17:24:494 ------ Skill selected: {"id":8,"name":"Dodge","type":1}
+10:17:24:501 ------ Maximum Skills of type 1: 2
+10:17:24:507 ------ Ready Skills of type 1: 2
+10:17:24:511 -------- Maximum Skills of type 1 already set
+10:17:24:522 ------ Skill selected: {"id":1,"name":"Weak Attack","type":0}
+10:17:24:526 ------ Maximum Skills of type 0: 2
+10:17:24:532 ------ Ready Skills of type 0: 0
+10:17:24:542 -------- Add Skill to Slot (2): {"id":1,"name":"Weak Attack","type":0}
+10:17:24:547 ---- Filling Skill-Slot: 3
+10:17:24:561 ------ Skill selected: {"id":3,"name":"Risky Attack","type":0}
+10:17:24:570 ------ Maximum Skills of type 0: 2
+10:17:24:579 ------ Ready Skills of type 0: 1
+10:17:24:585 -------- Add Skill to Slot (3): {"id":3,"name":"Risky Attack","type":0}
+10:17:24:590 ------------------------------------
+10:17:24:597 -- Selected Skills: 
+[{"id":4,"name":"Heal","type":1},{"id":6,"name":"Shield","type":1},{"id":1,"name":"Weak Attack","type":0},{"id":3,"name":"Risky Attack","type":0}]
+10:17:24:611 ------------------------------------
+10:17:24:615 Initialising a new Player: Wiener Schnitzel
+10:17:24:632 -- Generating Stats for Player: Wiener Schnitzel
+10:17:24:644 ---- STR: 6 CON: 11
+10:17:24:661 ------------------------------------
+10:17:24:665 -- Generating Attributes for Player: Wiener Schnitzel
+10:17:24:679 ---- DMG: 7.800000000000001 HEALTH: 33
+10:17:24:684 ------------------------------------
+10:17:24:695 -- Get Skills for Player: Wiener Schnitzel
+10:17:24:711 -- Selecting random Skills:
+10:17:24:722 ---- Amount of ATK-Skills: 2
+10:17:24:729 ---- Amount of DEF-Skills: 2
+10:17:24:744 ---- Amount of Skills (TOTAL): 4
+10:17:24:757 ------------------------------------
+10:17:24:762 ---- Filling Skill-Slot: 0
+10:17:24:773 ------ Skill selected: {"id":8,"name":"Dodge","type":1}
+10:17:24:780 ------ Maximum Skills of type 1: 2
+10:17:24:811 ------ Ready Skills of type 1: 0
+10:17:24:822 -------- Add Skill to Slot (0): {"id":8,"name":"Dodge","type":1}
+10:17:24:827 ---- Filling Skill-Slot: 1
+10:17:24:839 ------ Skill selected: {"id":8,"name":"Dodge","type":1}
+10:17:24:845 ------ Skill already selected in Slot: 0
+10:17:24:854 ------ Skill selected: {"id":8,"name":"Dodge","type":1}
+10:17:24:861 ------ Skill already selected in Slot: 0
+10:17:24:868 ------ Skill selected: {"id":5,"name":"Power Heal","type":1}
+10:17:24:878 ------ Maximum Skills of type 1: 2
+10:17:24:892 ------ Ready Skills of type 1: 1
+10:17:24:897 -------- Add Skill to Slot (1): {"id":5,"name":"Power Heal","type":1}
+10:17:24:905 ---- Filling Skill-Slot: 2
+10:17:24:913 ------ Skill selected: {"id":5,"name":"Power Heal","type":1}
+10:17:24:927 ------ Skill already selected in Slot: 1
+10:17:24:931 ------ Skill selected: {"id":6,"name":"Shield","type":1}
+10:17:24:943 ------ Maximum Skills of type 1: 2
+10:17:24:951 ------ Ready Skills of type 1: 2
+10:17:24:962 -------- Maximum Skills of type 1 already set
+10:17:24:968 ------ Skill selected: {"id":3,"name":"Risky Attack","type":0}
+10:17:24:991 ------ Maximum Skills of type 0: 2
+10:17:24:995 ------ Ready Skills of type 0: 0
+10:17:25:9 -------- Add Skill to Slot (2): {"id":3,"name":"Risky Attack","type":0}
+10:17:25:13 ---- Filling Skill-Slot: 3
+10:17:25:27 ------ Skill selected: {"id":8,"name":"Dodge","type":1}
+10:17:25:34 ------ Skill already selected in Slot: 0
+10:17:25:45 ------ Skill selected: {"id":1,"name":"Weak Attack","type":0}
+10:17:25:48 ------ Maximum Skills of type 0: 2
+10:17:25:61 ------ Ready Skills of type 0: 1
+10:17:25:62 -------- Add Skill to Slot (3): {"id":1,"name":"Weak Attack","type":0}
+10:17:25:72 ------------------------------------
+10:17:25:77 -- Selected Skills: 
+[{"id":8,"name":"Dodge","type":1},{"id":5,"name":"Power Heal","type":1},{"id":3,"name":"Risky Attack","type":0},{"id":1,"name":"Weak Attack","type":0}]
+10:17:25:95 ------------------------------------
+10:17:25:123 
+
+
+10:17:25:131 ************************************
+10:17:25:144 ************ ROUND 1    ************
+10:17:25:148 ************************************
+10:17:25:161 ------------------------------------
+10:17:25:183 -- Using Skills
+10:17:25:194 -- Defensive Skill for Player 1
+10:17:25:213 -- Wiener Wurst uses Heal!
+10:17:25:221 -- Wiener Wurst Health: 54
+10:17:25:226 -- Wiener Wurst Max Health: 54
+10:17:25:237 -- Wiener Wurst New Health: 64
+10:17:25:244 -- Wiener Wurst has fully healed! - Max Health: 54 Health: 54
+10:17:25:258 -- Defensive Skills for Player 2
+10:17:25:263 -- Wiener Schnitzel uses dodge!
+10:17:25:276 -- --Wiener Wurst Hit-Chance: 40.672821755857726
+10:17:25:280 ------------------------------------
+10:17:25:293 --  Reset Stats 
+10:17:25:298 ------------------------------------
+10:17:25:311 -- Player Wiener Wurst:
+{"hit_chance":40.672821755857726,"crit_chance":0,"block_chance":0,"reflect_chance":0,"skills":[{"id":4,"name":"Heal","type":1},{"id":6,"name":"Shield","type":1},{"id":1,"name":"Weak Attack","type":0},{"id":3,"name":"Risky Attack","type":0}],"name":"Wiener Wurst","strength":6,"constitution":18,"damage":7.800000000000001,"health":54,"max_health":54}
+10:17:25:343 -- NEW Player Wiener Wurst:
+{"hit_chance":100,"crit_chance":0,"block_chance":0,"reflect_chance":0,"skills":[{"id":4,"name":"Heal","type":1},{"id":6,"name":"Shield","type":1},{"id":1,"name":"Weak Attack","type":0},{"id":3,"name":"Risky Attack","type":0}],"name":"Wiener Wurst","strength":6,"constitution":18,"damage":7.800000000000001,"health":54,"max_health":54}
+10:17:25:362 -- Player Wiener Schnitzel:
+{"hit_chance":100,"crit_chance":0,"block_chance":0,"reflect_chance":0,"skills":[{"id":8,"name":"Dodge","type":1},{"id":5,"name":"Power Heal","type":1},{"id":3,"name":"Risky Attack","type":0},{"id":1,"name":"Weak Attack","type":0}],"name":"Wiener Schnitzel","strength":6,"constitution":11,"damage":7.800000000000001,"health":33,"max_health":33}
+10:17:25:379 -- NEW Player Wiener Schnitzel:
+{"hit_chance":100,"crit_chance":0,"block_chance":0,"reflect_chance":0,"skills":[{"id":8,"name":"Dodge","type":1},{"id":5,"name":"Power Heal","type":1},{"id":3,"name":"Risky Attack","type":0},{"id":1,"name":"Weak Attack","type":0}],"name":"Wiener Schnitzel","strength":6,"constitution":11,"damage":7.800000000000001,"health":33,"max_health":33}
+10:17:25:387 ------------------------------------
+10:17:25:406 Update Skills for Player: Wiener Wurst
+10:17:25:410 -- Old Skills: 
+[{"id":4,"name":"Heal","type":1},{"id":6,"name":"Shield","type":1},{"id":1,"name":"Weak Attack","type":0},{"id":3,"name":"Risky Attack","type":0}]
+10:17:25:424 -- First Skill: {"id":4,"name":"Heal","type":1}
+10:17:25:426 -- Skills after splice: 
+[{"id":6,"name":"Shield","type":1},{"id":1,"name":"Weak Attack","type":0},{"id":3,"name":"Risky Attack","type":0}]
+10:17:25:428 -- New Skills: 
+[{"id":6,"name":"Shield","type":1},{"id":1,"name":"Weak Attack","type":0},{"id":3,"name":"Risky Attack","type":0},{"id":4,"name":"Heal","type":1}]
+10:17:25:468 ------------------------------------
+10:17:25:472 Update Skills for Player: Wiener Schnitzel
+10:17:25:477 -- Old Skills: 
+[{"id":8,"name":"Dodge","type":1},{"id":5,"name":"Power Heal","type":1},{"id":3,"name":"Risky Attack","type":0},{"id":1,"name":"Weak Attack","type":0}]
+10:17:25:490 -- First Skill: {"id":8,"name":"Dodge","type":1}
+10:17:25:507 -- Skills after splice: 
+[{"id":5,"name":"Power Heal","type":1},{"id":3,"name":"Risky Attack","type":0},{"id":1,"name":"Weak Attack","type":0}]
+10:17:25:514 -- New Skills: 
+[{"id":5,"name":"Power Heal","type":1},{"id":3,"name":"Risky Attack","type":0},{"id":1,"name":"Weak Attack","type":0},{"id":8,"name":"Dodge","type":1}]
+10:17:25:529 ------------------------------------
+10:17:25:540 ---- Wiener Wurst Status:
+{"hit_chance":100,"crit_chance":0,"block_chance":0,"reflect_chance":0,"skills":[{"id":6,"name":"Shield","type":1},{"id":1,"name":"Weak Attack","type":0},{"id":3,"name":"Risky Attack","type":0},{"id":4,"name":"Heal","type":1}],"name":"Wiener Wurst","strength":6,"constitution":18,"damage":7.800000000000001,"health":54,"max_health":54}
+10:17:25:552 ---- Wiener Schnitzel Status:
+{"hit_chance":100,"crit_chance":0,"block_chance":0,"reflect_chance":0,"skills":[{"id":5,"name":"Power Heal","type":1},{"id":3,"name":"Risky Attack","type":0},{"id":1,"name":"Weak Attack","type":0},{"id":8,"name":"Dodge","type":1}],"name":"Wiener Schnitzel","strength":6,"constitution":11,"damage":7.800000000000001,"health":33,"max_health":33}
+10:17:25:569 
+
+
+10:17:25:585 ************************************
+10:17:25:594 ************ ROUND 2    ************
+10:17:25:605 ************************************
+10:17:25:610 ------------------------------------
+10:17:25:625 -- Using Skills
+10:17:25:629 -- Defensive Skill for Player 1
+10:17:25:643 -- Wiener Wurst uses Shield!
+10:17:25:657 -- Wiener Wurst Block-Chance: 100
+10:17:25:670 -- Defensive Skills for Player 2
+10:17:25:675 -- Wiener Schnitzel uses PowerHeal!
+10:17:25:692 -- Wiener Schnitzel Health: 33
+10:17:25:707 -- Wiener Schnitzel Max Health: 33
+10:17:25:713 -- Wiener Schnitzel New Health: 53
+10:17:25:727 -- Wiener Schnitzel has fully healed! - Max Health: 33 Health: 33
+10:17:25:742 ------------------------------------
+10:17:25:758 --  Reset Stats 
+10:17:25:761 ------------------------------------
+10:17:25:776 -- Player Wiener Wurst:
+{"hit_chance":100,"crit_chance":0,"block_chance":100,"reflect_chance":0,"skills":[{"id":6,"name":"Shield","type":1},{"id":1,"name":"Weak Attack","type":0},{"id":3,"name":"Risky Attack","type":0},{"id":4,"name":"Heal","type":1}],"name":"Wiener Wurst","strength":6,"constitution":18,"damage":7.800000000000001,"health":54,"max_health":54}
+10:17:25:792 -- NEW Player Wiener Wurst:
+{"hit_chance":100,"crit_chance":0,"block_chance":0,"reflect_chance":0,"skills":[{"id":6,"name":"Shield","type":1},{"id":1,"name":"Weak Attack","type":0},{"id":3,"name":"Risky Attack","type":0},{"id":4,"name":"Heal","type":1}],"name":"Wiener Wurst","strength":6,"constitution":18,"damage":7.800000000000001,"health":54,"max_health":54}
+10:17:25:796 -- Player Wiener Schnitzel:
+{"hit_chance":100,"crit_chance":0,"block_chance":0,"reflect_chance":0,"skills":[{"id":5,"name":"Power Heal","type":1},{"id":3,"name":"Risky Attack","type":0},{"id":1,"name":"Weak Attack","type":0},{"id":8,"name":"Dodge","type":1}],"name":"Wiener Schnitzel","strength":6,"constitution":11,"damage":7.800000000000001,"health":33,"max_health":33}
+10:17:25:805 -- NEW Player Wiener Schnitzel:
+{"hit_chance":100,"crit_chance":0,"block_chance":0,"reflect_chance":0,"skills":[{"id":5,"name":"Power Heal","type":1},{"id":3,"name":"Risky Attack","type":0},{"id":1,"name":"Weak Attack","type":0},{"id":8,"name":"Dodge","type":1}],"name":"Wiener Schnitzel","strength":6,"constitution":11,"damage":7.800000000000001,"health":33,"max_health":33}
+10:17:25:812 ------------------------------------
+10:17:25:826 Update Skills for Player: Wiener Wurst
+10:17:25:836 -- Old Skills: 
+[{"id":6,"name":"Shield","type":1},{"id":1,"name":"Weak Attack","type":0},{"id":3,"name":"Risky Attack","type":0},{"id":4,"name":"Heal","type":1}]
+10:17:25:847 -- First Skill: {"id":6,"name":"Shield","type":1}
+10:17:25:861 -- Skills after splice: 
+[{"id":1,"name":"Weak Attack","type":0},{"id":3,"name":"Risky Attack","type":0},{"id":4,"name":"Heal","type":1}]
+10:17:25:868 -- New Skills: 
+[{"id":1,"name":"Weak Attack","type":0},{"id":3,"name":"Risky Attack","type":0},{"id":4,"name":"Heal","type":1},{"id":6,"name":"Shield","type":1}]
+10:17:25:894 ------------------------------------
+10:17:25:903 Update Skills for Player: Wiener Schnitzel
+10:17:25:912 -- Old Skills: 
+[{"id":5,"name":"Power Heal","type":1},{"id":3,"name":"Risky Attack","type":0},{"id":1,"name":"Weak Attack","type":0},{"id":8,"name":"Dodge","type":1}]
+10:17:25:927 -- First Skill: {"id":5,"name":"Power Heal","type":1}
+10:17:25:930 -- Skills after splice: 
+[{"id":3,"name":"Risky Attack","type":0},{"id":1,"name":"Weak Attack","type":0},{"id":8,"name":"Dodge","type":1}]
+10:17:25:941 -- New Skills: 
+[{"id":3,"name":"Risky Attack","type":0},{"id":1,"name":"Weak Attack","type":0},{"id":8,"name":"Dodge","type":1},{"id":5,"name":"Power Heal","type":1}]
+10:17:25:947 ------------------------------------
+10:17:25:961 ---- Wiener Wurst Status:
+{"hit_chance":100,"crit_chance":0,"block_chance":0,"reflect_chance":0,"skills":[{"id":1,"name":"Weak Attack","type":0},{"id":3,"name":"Risky Attack","type":0},{"id":4,"name":"Heal","type":1},{"id":6,"name":"Shield","type":1}],"name":"Wiener Wurst","strength":6,"constitution":18,"damage":7.800000000000001,"health":54,"max_health":54}
+10:17:25:975 ---- Wiener Schnitzel Status:
+{"hit_chance":100,"crit_chance":0,"block_chance":0,"reflect_chance":0,"skills":[{"id":3,"name":"Risky Attack","type":0},{"id":1,"name":"Weak Attack","type":0},{"id":8,"name":"Dodge","type":1},{"id":5,"name":"Power Heal","type":1}],"name":"Wiener Schnitzel","strength":6,"constitution":11,"damage":7.800000000000001,"health":33,"max_health":33}
+10:17:25:980 
+
+
+10:17:25:994 ************************************
+10:17:26:2 ************ ROUND 3    ************
+10:17:26:7 ************************************
+10:17:26:12 ------------------------------------
+10:17:26:110 -- Using Skills
+10:17:26:111 -- Attacking Skill for Player 1
+10:17:26:113 -- Wiener Wurst does a weakAttack!
+10:17:26:116 ---- Wiener Wurst does 3.9000000000000004  Damage
+10:17:26:145 ---- Defender Health: 33
+10:17:26:152 ---- Defender New Health: 29.1
+10:17:26:159 -- Attacking Skill for Player 2
+10:17:26:166 -- Wiener Schnitzel does a riskyAttack!
+10:17:26:175 ---- But missed!
+10:17:26:191 ---- Attacker Hit-Chance: 0 Random Num: 84.90236743376846
+10:17:26:195 ------------------------------------
+10:17:26:208 --  Reset Stats 
+10:17:26:219 ------------------------------------
+10:17:26:226 -- Player Wiener Wurst:
+{"hit_chance":100,"crit_chance":0,"block_chance":0,"reflect_chance":0,"skills":[{"id":1,"name":"Weak Attack","type":0},{"id":3,"name":"Risky Attack","type":0},{"id":4,"name":"Heal","type":1},{"id":6,"name":"Shield","type":1}],"name":"Wiener Wurst","strength":6,"constitution":18,"damage":7.800000000000001,"health":54,"max_health":54}
+10:17:26:232 -- NEW Player Wiener Wurst:
+{"hit_chance":100,"crit_chance":0,"block_chance":0,"reflect_chance":0,"skills":[{"id":1,"name":"Weak Attack","type":0},{"id":3,"name":"Risky Attack","type":0},{"id":4,"name":"Heal","type":1},{"id":6,"name":"Shield","type":1}],"name":"Wiener Wurst","strength":6,"constitution":18,"damage":7.800000000000001,"health":54,"max_health":54}
+10:17:26:246 -- Player Wiener Schnitzel:
+{"hit_chance":0,"crit_chance":50,"block_chance":0,"reflect_chance":0,"skills":[{"id":3,"name":"Risky Attack","type":0},{"id":1,"name":"Weak Attack","type":0},{"id":8,"name":"Dodge","type":1},{"id":5,"name":"Power Heal","type":1}],"name":"Wiener Schnitzel","strength":6,"constitution":11,"damage":7.800000000000001,"health":29.1,"max_health":33}
+10:17:26:263 -- NEW Player Wiener Schnitzel:
+{"hit_chance":100,"crit_chance":0,"block_chance":0,"reflect_chance":0,"skills":[{"id":3,"name":"Risky Attack","type":0},{"id":1,"name":"Weak Attack","type":0},{"id":8,"name":"Dodge","type":1},{"id":5,"name":"Power Heal","type":1}],"name":"Wiener Schnitzel","strength":6,"constitution":11,"damage":7.800000000000001,"health":29.1,"max_health":33}
+10:17:26:276 ------------------------------------
+10:17:26:280 Update Skills for Player: Wiener Wurst
+10:17:26:290 -- Old Skills: 
+[{"id":1,"name":"Weak Attack","type":0},{"id":3,"name":"Risky Attack","type":0},{"id":4,"name":"Heal","type":1},{"id":6,"name":"Shield","type":1}]
+10:17:26:296 -- First Skill: {"id":1,"name":"Weak Attack","type":0}
+10:17:26:309 -- Skills after splice: 
+[{"id":3,"name":"Risky Attack","type":0},{"id":4,"name":"Heal","type":1},{"id":6,"name":"Shield","type":1}]
+10:17:26:313 -- New Skills: 
+[{"id":3,"name":"Risky Attack","type":0},{"id":4,"name":"Heal","type":1},{"id":6,"name":"Shield","type":1},{"id":1,"name":"Weak Attack","type":0}]
+10:17:26:321 ------------------------------------
+10:17:26:324 Update Skills for Player: Wiener Schnitzel
+10:17:26:328 -- Old Skills: 
+[{"id":3,"name":"Risky Attack","type":0},{"id":1,"name":"Weak Attack","type":0},{"id":8,"name":"Dodge","type":1},{"id":5,"name":"Power Heal","type":1}]
+10:17:26:343 -- First Skill: {"id":3,"name":"Risky Attack","type":0}
+10:17:26:357 -- Skills after splice: 
+[{"id":1,"name":"Weak Attack","type":0},{"id":8,"name":"Dodge","type":1},{"id":5,"name":"Power Heal","type":1}]
+10:17:26:374 -- New Skills: 
+[{"id":1,"name":"Weak Attack","type":0},{"id":8,"name":"Dodge","type":1},{"id":5,"name":"Power Heal","type":1},{"id":3,"name":"Risky Attack","type":0}]
+10:17:26:379 ------------------------------------
+10:17:26:406 ---- Wiener Wurst Status:
+{"hit_chance":100,"crit_chance":0,"block_chance":0,"reflect_chance":0,"skills":[{"id":3,"name":"Risky Attack","type":0},{"id":4,"name":"Heal","type":1},{"id":6,"name":"Shield","type":1},{"id":1,"name":"Weak Attack","type":0}],"name":"Wiener Wurst","strength":6,"constitution":18,"damage":7.800000000000001,"health":54,"max_health":54}
+10:17:26:413 ---- Wiener Schnitzel Status:
+{"hit_chance":100,"crit_chance":0,"block_chance":0,"reflect_chance":0,"skills":[{"id":1,"name":"Weak Attack","type":0},{"id":8,"name":"Dodge","type":1},{"id":5,"name":"Power Heal","type":1},{"id":3,"name":"Risky Attack","type":0}],"name":"Wiener Schnitzel","strength":6,"constitution":11,"damage":7.800000000000001,"health":29.1,"max_health":33}
+10:17:26:420 
+
+
+10:17:26:427 ************************************
+10:17:26:438 ************ ROUND 4    ************
+10:17:26:442 ************************************
+10:17:26:457 ------------------------------------
+10:17:26:459 -- Using Skills
+10:17:26:469 -- Attacking Skill for Player 1
+10:17:26:477 -- Wiener Wurst does a riskyAttack!
+10:17:26:507 ---- But missed!
+10:17:26:523 ---- Attacker Hit-Chance: 0 Random Num: 16.269233839867713
+10:17:26:545 -- Attacking Skill for Player 2
+10:17:26:569 -- Wiener Schnitzel does a weakAttack!
+10:17:26:588 ---- Wiener Schnitzel does 3.9000000000000004  Damage
+10:17:26:608 ---- Defender Health: 54
+10:17:26:624 ---- Defender New Health: 50.1
+10:17:26:629 ------------------------------------
+10:17:26:652 --  Reset Stats 
+10:17:26:659 ------------------------------------
+10:17:26:671 -- Player Wiener Wurst:
+{"hit_chance":0,"crit_chance":50,"block_chance":0,"reflect_chance":0,"skills":[{"id":3,"name":"Risky Attack","type":0},{"id":4,"name":"Heal","type":1},{"id":6,"name":"Shield","type":1},{"id":1,"name":"Weak Attack","type":0}],"name":"Wiener Wurst","strength":6,"constitution":18,"damage":7.800000000000001,"health":50.1,"max_health":54}
+10:17:26:677 -- NEW Player Wiener Wurst:
+{"hit_chance":100,"crit_chance":0,"block_chance":0,"reflect_chance":0,"skills":[{"id":3,"name":"Risky Attack","type":0},{"id":4,"name":"Heal","type":1},{"id":6,"name":"Shield","type":1},{"id":1,"name":"Weak Attack","type":0}],"name":"Wiener Wurst","strength":6,"constitution":18,"damage":7.800000000000001,"health":50.1,"max_health":54}
+10:17:26:689 -- Player Wiener Schnitzel:
+{"hit_chance":100,"crit_chance":0,"block_chance":0,"reflect_chance":0,"skills":[{"id":1,"name":"Weak Attack","type":0},{"id":8,"name":"Dodge","type":1},{"id":5,"name":"Power Heal","type":1},{"id":3,"name":"Risky Attack","type":0}],"name":"Wiener Schnitzel","strength":6,"constitution":11,"damage":7.800000000000001,"health":29.1,"max_health":33}
+10:17:26:694 -- NEW Player Wiener Schnitzel:
+{"hit_chance":100,"crit_chance":0,"block_chance":0,"reflect_chance":0,"skills":[{"id":1,"name":"Weak Attack","type":0},{"id":8,"name":"Dodge","type":1},{"id":5,"name":"Power Heal","type":1},{"id":3,"name":"Risky Attack","type":0}],"name":"Wiener Schnitzel","strength":6,"constitution":11,"damage":7.800000000000001,"health":29.1,"max_health":33}
+10:17:26:711 ------------------------------------
+10:17:26:728 Update Skills for Player: Wiener Wurst
+10:17:26:742 -- Old Skills: 
+[{"id":3,"name":"Risky Attack","type":0},{"id":4,"name":"Heal","type":1},{"id":6,"name":"Shield","type":1},{"id":1,"name":"Weak Attack","type":0}]
+10:17:26:751 -- First Skill: {"id":3,"name":"Risky Attack","type":0}
+10:17:26:755 -- Skills after splice: 
+[{"id":4,"name":"Heal","type":1},{"id":6,"name":"Shield","type":1},{"id":1,"name":"Weak Attack","type":0}]
+10:17:26:769 -- New Skills: 
+[{"id":4,"name":"Heal","type":1},{"id":6,"name":"Shield","type":1},{"id":1,"name":"Weak Attack","type":0},{"id":3,"name":"Risky Attack","type":0}]
+10:17:26:775 ------------------------------------
+10:17:26:785 Update Skills for Player: Wiener Schnitzel
+10:17:26:793 -- Old Skills: 
+[{"id":1,"name":"Weak Attack","type":0},{"id":8,"name":"Dodge","type":1},{"id":5,"name":"Power Heal","type":1},{"id":3,"name":"Risky Attack","type":0}]
+10:17:26:809 -- First Skill: {"id":1,"name":"Weak Attack","type":0}
+10:17:26:822 -- Skills after splice: 
+[{"id":8,"name":"Dodge","type":1},{"id":5,"name":"Power Heal","type":1},{"id":3,"name":"Risky Attack","type":0}]
+10:17:26:826 -- New Skills: 
+[{"id":8,"name":"Dodge","type":1},{"id":5,"name":"Power Heal","type":1},{"id":3,"name":"Risky Attack","type":0},{"id":1,"name":"Weak Attack","type":0}]
+10:17:26:841 ------------------------------------
+10:17:26:860 ---- Wiener Wurst Status:
+{"hit_chance":100,"crit_chance":0,"block_chance":0,"reflect_chance":0,"skills":[{"id":4,"name":"Heal","type":1},{"id":6,"name":"Shield","type":1},{"id":1,"name":"Weak Attack","type":0},{"id":3,"name":"Risky Attack","type":0}],"name":"Wiener Wurst","strength":6,"constitution":18,"damage":7.800000000000001,"health":50.1,"max_health":54}
+10:17:26:871 ---- Wiener Schnitzel Status:
+{"hit_chance":100,"crit_chance":0,"block_chance":0,"reflect_chance":0,"skills":[{"id":8,"name":"Dodge","type":1},{"id":5,"name":"Power Heal","type":1},{"id":3,"name":"Risky Attack","type":0},{"id":1,"name":"Weak Attack","type":0}],"name":"Wiener Schnitzel","strength":6,"constitution":11,"damage":7.800000000000001,"health":29.1,"max_health":33}
+10:17:26:908 
+
+
+10:17:26:920 ************************************
+10:17:26:928 ************ ROUND 5    ************
+10:17:26:939 ************************************
+10:17:26:953 ------------------------------------
+10:17:26:963 -- Using Skills
+10:17:26:971 -- Defensive Skill for Player 1
+10:17:26:978 -- Wiener Wurst uses Heal!
+10:17:26:990 -- Wiener Wurst Health: 50.1
+10:17:26:995 -- Wiener Wurst Max Health: 54
+10:17:27:10 -- Wiener Wurst New Health: 60.1
+10:17:27:15 -- Wiener Wurst has fully healed! - Max Health: 54 Health: 54
+10:17:27:23 -- Defensive Skills for Player 2
+10:17:27:28 -- Wiener Schnitzel uses dodge!
+10:17:27:32 -- --Wiener Wurst Hit-Chance: 45.55706869473618
+10:17:27:39 ------------------------------------
+10:17:27:43 --  Reset Stats 
+10:17:27:46 ------------------------------------
+10:17:27:61 -- Player Wiener Wurst:
+{"hit_chance":45.55706869473618,"crit_chance":0,"block_chance":0,"reflect_chance":0,"skills":[{"id":4,"name":"Heal","type":1},{"id":6,"name":"Shield","type":1},{"id":1,"name":"Weak Attack","type":0},{"id":3,"name":"Risky Attack","type":0}],"name":"Wiener Wurst","strength":6,"constitution":18,"damage":7.800000000000001,"health":54,"max_health":54}
+10:17:27:75 -- NEW Player Wiener Wurst:
+{"hit_chance":100,"crit_chance":0,"block_chance":0,"reflect_chance":0,"skills":[{"id":4,"name":"Heal","type":1},{"id":6,"name":"Shield","type":1},{"id":1,"name":"Weak Attack","type":0},{"id":3,"name":"Risky Attack","type":0}],"name":"Wiener Wurst","strength":6,"constitution":18,"damage":7.800000000000001,"health":54,"max_health":54}
+10:17:27:87 -- Player Wiener Schnitzel:
+{"hit_chance":100,"crit_chance":0,"block_chance":0,"reflect_chance":0,"skills":[{"id":8,"name":"Dodge","type":1},{"id":5,"name":"Power Heal","type":1},{"id":3,"name":"Risky Attack","type":0},{"id":1,"name":"Weak Attack","type":0}],"name":"Wiener Schnitzel","strength":6,"constitution":11,"damage":7.800000000000001,"health":29.1,"max_health":33}
+10:17:27:95 -- NEW Player Wiener Schnitzel:
+{"hit_chance":100,"crit_chance":0,"block_chance":0,"reflect_chance":0,"skills":[{"id":8,"name":"Dodge","type":1},{"id":5,"name":"Power Heal","type":1},{"id":3,"name":"Risky Attack","type":0},{"id":1,"name":"Weak Attack","type":0}],"name":"Wiener Schnitzel","strength":6,"constitution":11,"damage":7.800000000000001,"health":29.1,"max_health":33}
+10:17:27:103 ------------------------------------
+10:17:27:112 Update Skills for Player: Wiener Wurst
+10:17:27:124 -- Old Skills: 
+[{"id":4,"name":"Heal","type":1},{"id":6,"name":"Shield","type":1},{"id":1,"name":"Weak Attack","type":0},{"id":3,"name":"Risky Attack","type":0}]
+10:17:27:133 -- First Skill: {"id":4,"name":"Heal","type":1}
+10:17:27:141 -- Skills after splice: 
+[{"id":6,"name":"Shield","type":1},{"id":1,"name":"Weak Attack","type":0},{"id":3,"name":"Risky Attack","type":0}]
+10:17:27:154 -- New Skills: 
+[{"id":6,"name":"Shield","type":1},{"id":1,"name":"Weak Attack","type":0},{"id":3,"name":"Risky Attack","type":0},{"id":4,"name":"Heal","type":1}]
+10:17:27:173 ------------------------------------
+10:17:27:177 Update Skills for Player: Wiener Schnitzel
+10:17:27:190 -- Old Skills: 
+[{"id":8,"name":"Dodge","type":1},{"id":5,"name":"Power Heal","type":1},{"id":3,"name":"Risky Attack","type":0},{"id":1,"name":"Weak Attack","type":0}]
+10:17:27:195 -- First Skill: {"id":8,"name":"Dodge","type":1}
+10:17:27:210 -- Skills after splice: 
+[{"id":5,"name":"Power Heal","type":1},{"id":3,"name":"Risky Attack","type":0},{"id":1,"name":"Weak Attack","type":0}]
+10:17:27:221 -- New Skills: 
+[{"id":5,"name":"Power Heal","type":1},{"id":3,"name":"Risky Attack","type":0},{"id":1,"name":"Weak Attack","type":0},{"id":8,"name":"Dodge","type":1}]
+10:17:27:235 ------------------------------------
+10:17:27:241 ---- Wiener Wurst Status:
+{"hit_chance":100,"crit_chance":0,"block_chance":0,"reflect_chance":0,"skills":[{"id":6,"name":"Shield","type":1},{"id":1,"name":"Weak Attack","type":0},{"id":3,"name":"Risky Attack","type":0},{"id":4,"name":"Heal","type":1}],"name":"Wiener Wurst","strength":6,"constitution":18,"damage":7.800000000000001,"health":54,"max_health":54}
+10:17:27:258 ---- Wiener Schnitzel Status:
+{"hit_chance":100,"crit_chance":0,"block_chance":0,"reflect_chance":0,"skills":[{"id":5,"name":"Power Heal","type":1},{"id":3,"name":"Risky Attack","type":0},{"id":1,"name":"Weak Attack","type":0},{"id":8,"name":"Dodge","type":1}],"name":"Wiener Schnitzel","strength":6,"constitution":11,"damage":7.800000000000001,"health":29.1,"max_health":33}
+10:17:27:272 
+
+
+10:17:27:279 ************************************
+10:17:27:288 ************ ROUND 6    ************
+10:17:27:295 ************************************
+10:17:27:317 ------------------------------------
+10:17:27:326 -- Using Skills
+10:17:27:334 -- Defensive Skill for Player 1
+10:17:27:342 -- Wiener Wurst uses Shield!
+10:17:27:351 -- Wiener Wurst Block-Chance: 100
+10:17:27:370 -- Defensive Skills for Player 2
+10:17:27:376 -- Wiener Schnitzel uses PowerHeal!
+10:17:27:391 -- Wiener Schnitzel Health: 29.1
+10:17:27:396 -- Wiener Schnitzel Max Health: 33
+10:17:27:410 -- Wiener Schnitzel New Health: 49.1
+10:17:27:424 -- Wiener Schnitzel has fully healed! - Max Health: 33 Health: 33
+10:17:27:428 ------------------------------------
+10:17:27:444 --  Reset Stats 
+10:17:27:474 ------------------------------------
+10:17:27:479 -- Player Wiener Wurst:
+{"hit_chance":100,"crit_chance":0,"block_chance":100,"reflect_chance":0,"skills":[{"id":6,"name":"Shield","type":1},{"id":1,"name":"Weak Attack","type":0},{"id":3,"name":"Risky Attack","type":0},{"id":4,"name":"Heal","type":1}],"name":"Wiener Wurst","strength":6,"constitution":18,"damage":7.800000000000001,"health":54,"max_health":54}
+10:17:27:493 -- NEW Player Wiener Wurst:
+{"hit_chance":100,"crit_chance":0,"block_chance":0,"reflect_chance":0,"skills":[{"id":6,"name":"Shield","type":1},{"id":1,"name":"Weak Attack","type":0},{"id":3,"name":"Risky Attack","type":0},{"id":4,"name":"Heal","type":1}],"name":"Wiener Wurst","strength":6,"constitution":18,"damage":7.800000000000001,"health":54,"max_health":54}
+10:17:27:507 -- Player Wiener Schnitzel:
+{"hit_chance":100,"crit_chance":0,"block_chance":0,"reflect_chance":0,"skills":[{"id":5,"name":"Power Heal","type":1},{"id":3,"name":"Risky Attack","type":0},{"id":1,"name":"Weak Attack","type":0},{"id":8,"name":"Dodge","type":1}],"name":"Wiener Schnitzel","strength":6,"constitution":11,"damage":7.800000000000001,"health":33,"max_health":33}
+10:17:27:527 -- NEW Player Wiener Schnitzel:
+{"hit_chance":100,"crit_chance":0,"block_chance":0,"reflect_chance":0,"skills":[{"id":5,"name":"Power Heal","type":1},{"id":3,"name":"Risky Attack","type":0},{"id":1,"name":"Weak Attack","type":0},{"id":8,"name":"Dodge","type":1}],"name":"Wiener Schnitzel","strength":6,"constitution":11,"damage":7.800000000000001,"health":33,"max_health":33}
+10:17:27:542 ------------------------------------
+10:17:27:557 Update Skills for Player: Wiener Wurst
+10:17:27:649 -- Old Skills: 
+[{"id":6,"name":"Shield","type":1},{"id":1,"name":"Weak Attack","type":0},{"id":3,"name":"Risky Attack","type":0},{"id":4,"name":"Heal","type":1}]
+10:17:27:653 -- First Skill: {"id":6,"name":"Shield","type":1}
+10:17:27:683 -- Skills after splice: 
+[{"id":1,"name":"Weak Attack","type":0},{"id":3,"name":"Risky Attack","type":0},{"id":4,"name":"Heal","type":1}]
+10:17:27:692 -- New Skills: 
+[{"id":1,"name":"Weak Attack","type":0},{"id":3,"name":"Risky Attack","type":0},{"id":4,"name":"Heal","type":1},{"id":6,"name":"Shield","type":1}]
+10:17:27:706 ------------------------------------
+10:17:27:712 Update Skills for Player: Wiener Schnitzel
+10:17:27:721 -- Old Skills: 
+[{"id":5,"name":"Power Heal","type":1},{"id":3,"name":"Risky Attack","type":0},{"id":1,"name":"Weak Attack","type":0},{"id":8,"name":"Dodge","type":1}]
+10:17:27:728 -- First Skill: {"id":5,"name":"Power Heal","type":1}
+10:17:27:742 -- Skills after splice: 
+[{"id":3,"name":"Risky Attack","type":0},{"id":1,"name":"Weak Attack","type":0},{"id":8,"name":"Dodge","type":1}]
+10:17:27:745 -- New Skills: 
+[{"id":3,"name":"Risky Attack","type":0},{"id":1,"name":"Weak Attack","type":0},{"id":8,"name":"Dodge","type":1},{"id":5,"name":"Power Heal","type":1}]
+10:17:27:760 ------------------------------------
+10:17:27:770 ---- Wiener Wurst Status:
+{"hit_chance":100,"crit_chance":0,"block_chance":0,"reflect_chance":0,"skills":[{"id":1,"name":"Weak Attack","type":0},{"id":3,"name":"Risky Attack","type":0},{"id":4,"name":"Heal","type":1},{"id":6,"name":"Shield","type":1}],"name":"Wiener Wurst","strength":6,"constitution":18,"damage":7.800000000000001,"health":54,"max_health":54}
+10:17:27:776 ---- Wiener Schnitzel Status:
+{"hit_chance":100,"crit_chance":0,"block_chance":0,"reflect_chance":0,"skills":[{"id":3,"name":"Risky Attack","type":0},{"id":1,"name":"Weak Attack","type":0},{"id":8,"name":"Dodge","type":1},{"id":5,"name":"Power Heal","type":1}],"name":"Wiener Schnitzel","strength":6,"constitution":11,"damage":7.800000000000001,"health":33,"max_health":33}
+10:17:27:790 
+
+
+10:17:27:795 ************************************
+10:17:27:807 ************ ROUND 7    ************
+10:17:27:812 ************************************
+10:17:27:823 ------------------------------------
+10:17:27:827 -- Using Skills
+10:17:27:834 -- Attacking Skill for Player 1
+10:17:27:849 -- Wiener Wurst does a weakAttack!
+10:17:27:858 ---- Wiener Wurst does 3.9000000000000004  Damage
+10:17:27:875 ---- Defender Health: 33
+10:17:27:889 ---- Defender New Health: 29.1
+10:17:27:893 -- Attacking Skill for Player 2
+10:17:27:901 -- Wiener Schnitzel does a riskyAttack!
+10:17:27:918 ---- But missed!
+10:17:27:937 ---- Attacker Hit-Chance: 0 Random Num: 61.584627733634136
+10:17:27:944 ------------------------------------
+10:17:27:952 --  Reset Stats 
+10:17:27:958 ------------------------------------
+10:17:27:968 -- Player Wiener Wurst:
+{"hit_chance":100,"crit_chance":0,"block_chance":0,"reflect_chance":0,"skills":[{"id":1,"name":"Weak Attack","type":0},{"id":3,"name":"Risky Attack","type":0},{"id":4,"name":"Heal","type":1},{"id":6,"name":"Shield","type":1}],"name":"Wiener Wurst","strength":6,"constitution":18,"damage":7.800000000000001,"health":54,"max_health":54}
+10:17:27:976 -- NEW Player Wiener Wurst:
+{"hit_chance":100,"crit_chance":0,"block_chance":0,"reflect_chance":0,"skills":[{"id":1,"name":"Weak Attack","type":0},{"id":3,"name":"Risky Attack","type":0},{"id":4,"name":"Heal","type":1},{"id":6,"name":"Shield","type":1}],"name":"Wiener Wurst","strength":6,"constitution":18,"damage":7.800000000000001,"health":54,"max_health":54}
+10:17:27:993 -- Player Wiener Schnitzel:
+{"hit_chance":0,"crit_chance":50,"block_chance":0,"reflect_chance":0,"skills":[{"id":3,"name":"Risky Attack","type":0},{"id":1,"name":"Weak Attack","type":0},{"id":8,"name":"Dodge","type":1},{"id":5,"name":"Power Heal","type":1}],"name":"Wiener Schnitzel","strength":6,"constitution":11,"damage":7.800000000000001,"health":29.1,"max_health":33}
+10:17:28:8 -- NEW Player Wiener Schnitzel:
+{"hit_chance":100,"crit_chance":0,"block_chance":0,"reflect_chance":0,"skills":[{"id":3,"name":"Risky Attack","type":0},{"id":1,"name":"Weak Attack","type":0},{"id":8,"name":"Dodge","type":1},{"id":5,"name":"Power Heal","type":1}],"name":"Wiener Schnitzel","strength":6,"constitution":11,"damage":7.800000000000001,"health":29.1,"max_health":33}
+10:17:28:23 ------------------------------------
+10:17:28:27 Update Skills for Player: Wiener Wurst
+10:17:28:37 -- Old Skills: 
+[{"id":1,"name":"Weak Attack","type":0},{"id":3,"name":"Risky Attack","type":0},{"id":4,"name":"Heal","type":1},{"id":6,"name":"Shield","type":1}]
+10:17:28:44 -- First Skill: {"id":1,"name":"Weak Attack","type":0}
+10:17:28:54 -- Skills after splice: 
+[{"id":3,"name":"Risky Attack","type":0},{"id":4,"name":"Heal","type":1},{"id":6,"name":"Shield","type":1}]
+10:17:28:58 -- New Skills: 
+[{"id":3,"name":"Risky Attack","type":0},{"id":4,"name":"Heal","type":1},{"id":6,"name":"Shield","type":1},{"id":1,"name":"Weak Attack","type":0}]
+10:17:28:60 ------------------------------------
+10:17:28:73 Update Skills for Player: Wiener Schnitzel
+10:17:28:77 -- Old Skills: 
+[{"id":3,"name":"Risky Attack","type":0},{"id":1,"name":"Weak Attack","type":0},{"id":8,"name":"Dodge","type":1},{"id":5,"name":"Power Heal","type":1}]
+10:17:28:91 -- First Skill: {"id":3,"name":"Risky Attack","type":0}
+10:17:28:95 -- Skills after splice: 
+[{"id":1,"name":"Weak Attack","type":0},{"id":8,"name":"Dodge","type":1},{"id":5,"name":"Power Heal","type":1}]
+10:17:28:104 -- New Skills: 
+[{"id":1,"name":"Weak Attack","type":0},{"id":8,"name":"Dodge","type":1},{"id":5,"name":"Power Heal","type":1},{"id":3,"name":"Risky Attack","type":0}]
+10:17:28:117 ------------------------------------
+10:17:28:123 ---- Wiener Wurst Status:
+{"hit_chance":100,"crit_chance":0,"block_chance":0,"reflect_chance":0,"skills":[{"id":3,"name":"Risky Attack","type":0},{"id":4,"name":"Heal","type":1},{"id":6,"name":"Shield","type":1},{"id":1,"name":"Weak Attack","type":0}],"name":"Wiener Wurst","strength":6,"constitution":18,"damage":7.800000000000001,"health":54,"max_health":54}
+10:17:28:133 ---- Wiener Schnitzel Status:
+{"hit_chance":100,"crit_chance":0,"block_chance":0,"reflect_chance":0,"skills":[{"id":1,"name":"Weak Attack","type":0},{"id":8,"name":"Dodge","type":1},{"id":5,"name":"Power Heal","type":1},{"id":3,"name":"Risky Attack","type":0}],"name":"Wiener Schnitzel","strength":6,"constitution":11,"damage":7.800000000000001,"health":29.1,"max_health":33}
+10:17:28:143 
+
+
+10:17:28:157 ************************************
+10:17:28:160 ************ ROUND 8    ************
+10:17:28:167 ************************************
+10:17:28:176 ------------------------------------
+10:17:28:190 -- Using Skills
+10:17:28:195 -- Attacking Skill for Player 1
+10:17:28:207 -- Wiener Wurst does a riskyAttack!
+10:17:28:223 ---- Critical Strike!
+10:17:28:227 ---- Attacker Crit-Chance: 50 Random Num: 19.59692546308971
+10:17:28:239 ---- Wiener Wurst does 23.400000000000002  Damage
+10:17:28:243 ---- Defender Health: 29.1
+10:17:28:256 ---- Defender New Health: 5.699999999999999
+10:17:28:276 -- Attacking Skill for Player 2
+10:17:28:289 -- Wiener Schnitzel does a weakAttack!
+10:17:28:294 ---- Wiener Schnitzel does 3.9000000000000004  Damage
+10:17:28:307 ---- Defender Health: 54
+10:17:28:311 ---- Defender New Health: 50.1
+10:17:28:323 ------------------------------------
+10:17:28:327 --  Reset Stats 
+10:17:28:341 ------------------------------------
+10:17:28:347 -- Player Wiener Wurst:
+{"hit_chance":100,"crit_chance":50,"block_chance":0,"reflect_chance":0,"skills":[{"id":3,"name":"Risky Attack","type":0},{"id":4,"name":"Heal","type":1},{"id":6,"name":"Shield","type":1},{"id":1,"name":"Weak Attack","type":0}],"name":"Wiener Wurst","strength":6,"constitution":18,"damage":7.800000000000001,"health":50.1,"max_health":54}
+10:17:28:357 -- NEW Player Wiener Wurst:
+{"hit_chance":100,"crit_chance":0,"block_chance":0,"reflect_chance":0,"skills":[{"id":3,"name":"Risky Attack","type":0},{"id":4,"name":"Heal","type":1},{"id":6,"name":"Shield","type":1},{"id":1,"name":"Weak Attack","type":0}],"name":"Wiener Wurst","strength":6,"constitution":18,"damage":7.800000000000001,"health":50.1,"max_health":54}
+10:17:28:371 -- Player Wiener Schnitzel:
+{"hit_chance":100,"crit_chance":0,"block_chance":0,"reflect_chance":0,"skills":[{"id":1,"name":"Weak Attack","type":0},{"id":8,"name":"Dodge","type":1},{"id":5,"name":"Power Heal","type":1},{"id":3,"name":"Risky Attack","type":0}],"name":"Wiener Schnitzel","strength":6,"constitution":11,"damage":7.800000000000001,"health":5.699999999999999,"max_health":33}
+10:17:28:386 -- NEW Player Wiener Schnitzel:
+{"hit_chance":100,"crit_chance":0,"block_chance":0,"reflect_chance":0,"skills":[{"id":1,"name":"Weak Attack","type":0},{"id":8,"name":"Dodge","type":1},{"id":5,"name":"Power Heal","type":1},{"id":3,"name":"Risky Attack","type":0}],"name":"Wiener Schnitzel","strength":6,"constitution":11,"damage":7.800000000000001,"health":5.699999999999999,"max_health":33}
+10:17:28:392 ------------------------------------
+10:17:28:406 Update Skills for Player: Wiener Wurst
+10:17:28:410 -- Old Skills: 
+[{"id":3,"name":"Risky Attack","type":0},{"id":4,"name":"Heal","type":1},{"id":6,"name":"Shield","type":1},{"id":1,"name":"Weak Attack","type":0}]
+10:17:28:424 -- First Skill: {"id":3,"name":"Risky Attack","type":0}
+10:17:28:442 -- Skills after splice: 
+[{"id":4,"name":"Heal","type":1},{"id":6,"name":"Shield","type":1},{"id":1,"name":"Weak Attack","type":0}]
+10:17:28:458 -- New Skills: 
+[{"id":4,"name":"Heal","type":1},{"id":6,"name":"Shield","type":1},{"id":1,"name":"Weak Attack","type":0},{"id":3,"name":"Risky Attack","type":0}]
+10:17:28:477 ------------------------------------
+10:17:28:488 Update Skills for Player: Wiener Schnitzel
+10:17:28:504 -- Old Skills: 
+[{"id":1,"name":"Weak Attack","type":0},{"id":8,"name":"Dodge","type":1},{"id":5,"name":"Power Heal","type":1},{"id":3,"name":"Risky Attack","type":0}]
+10:17:28:508 -- First Skill: {"id":1,"name":"Weak Attack","type":0}
+10:17:28:519 -- Skills after splice: 
+[{"id":8,"name":"Dodge","type":1},{"id":5,"name":"Power Heal","type":1},{"id":3,"name":"Risky Attack","type":0}]
+10:17:28:524 -- New Skills: 
+[{"id":8,"name":"Dodge","type":1},{"id":5,"name":"Power Heal","type":1},{"id":3,"name":"Risky Attack","type":0},{"id":1,"name":"Weak Attack","type":0}]
+10:17:28:531 ------------------------------------
+10:17:28:535 ---- Wiener Wurst Status:
+{"hit_chance":100,"crit_chance":0,"block_chance":0,"reflect_chance":0,"skills":[{"id":4,"name":"Heal","type":1},{"id":6,"name":"Shield","type":1},{"id":1,"name":"Weak Attack","type":0},{"id":3,"name":"Risky Attack","type":0}],"name":"Wiener Wurst","strength":6,"constitution":18,"damage":7.800000000000001,"health":50.1,"max_health":54}
+10:17:28:539 ---- Wiener Schnitzel Status:
+{"hit_chance":100,"crit_chance":0,"block_chance":0,"reflect_chance":0,"skills":[{"id":8,"name":"Dodge","type":1},{"id":5,"name":"Power Heal","type":1},{"id":3,"name":"Risky Attack","type":0},{"id":1,"name":"Weak Attack","type":0}],"name":"Wiener Schnitzel","strength":6,"constitution":11,"damage":7.800000000000001,"health":5.699999999999999,"max_health":33}
+10:17:28:548 
+
+
+10:17:28:555 ************************************
+10:17:28:569 ************ ROUND 9    ************
+10:17:28:572 ************************************
+10:17:28:583 ------------------------------------
+10:17:28:586 -- Using Skills
+10:17:28:589 -- Defensive Skill for Player 1
+10:17:28:594 -- Wiener Wurst uses Heal!
+10:17:28:603 -- Wiener Wurst Health: 50.1
+10:17:28:610 -- Wiener Wurst Max Health: 54
+10:17:28:619 -- Wiener Wurst New Health: 60.1
+10:17:28:624 -- Wiener Wurst has fully healed! - Max Health: 54 Health: 54
+10:17:28:628 -- Defensive Skills for Player 2
+10:17:28:641 -- Wiener Schnitzel uses dodge!
+10:17:28:658 -- --Wiener Wurst Hit-Chance: 47.48993285111747
+10:17:28:667 ------------------------------------
+10:17:28:682 --  Reset Stats 
+10:17:28:687 ------------------------------------
+10:17:28:691 -- Player Wiener Wurst:
+{"hit_chance":47.48993285111747,"crit_chance":0,"block_chance":0,"reflect_chance":0,"skills":[{"id":4,"name":"Heal","type":1},{"id":6,"name":"Shield","type":1},{"id":1,"name":"Weak Attack","type":0},{"id":3,"name":"Risky Attack","type":0}],"name":"Wiener Wurst","strength":6,"constitution":18,"damage":7.800000000000001,"health":54,"max_health":54}
+10:17:28:699 -- NEW Player Wiener Wurst:
+{"hit_chance":100,"crit_chance":0,"block_chance":0,"reflect_chance":0,"skills":[{"id":4,"name":"Heal","type":1},{"id":6,"name":"Shield","type":1},{"id":1,"name":"Weak Attack","type":0},{"id":3,"name":"Risky Attack","type":0}],"name":"Wiener Wurst","strength":6,"constitution":18,"damage":7.800000000000001,"health":54,"max_health":54}
+10:17:28:706 -- Player Wiener Schnitzel:
+{"hit_chance":100,"crit_chance":0,"block_chance":0,"reflect_chance":0,"skills":[{"id":8,"name":"Dodge","type":1},{"id":5,"name":"Power Heal","type":1},{"id":3,"name":"Risky Attack","type":0},{"id":1,"name":"Weak Attack","type":0}],"name":"Wiener Schnitzel","strength":6,"constitution":11,"damage":7.800000000000001,"health":5.699999999999999,"max_health":33}
+10:17:28:713 -- NEW Player Wiener Schnitzel:
+{"hit_chance":100,"crit_chance":0,"block_chance":0,"reflect_chance":0,"skills":[{"id":8,"name":"Dodge","type":1},{"id":5,"name":"Power Heal","type":1},{"id":3,"name":"Risky Attack","type":0},{"id":1,"name":"Weak Attack","type":0}],"name":"Wiener Schnitzel","strength":6,"constitution":11,"damage":7.800000000000001,"health":5.699999999999999,"max_health":33}
+10:17:28:722 ------------------------------------
+10:17:28:725 Update Skills for Player: Wiener Wurst
+10:17:28:737 -- Old Skills: 
+[{"id":4,"name":"Heal","type":1},{"id":6,"name":"Shield","type":1},{"id":1,"name":"Weak Attack","type":0},{"id":3,"name":"Risky Attack","type":0}]
+10:17:28:741 -- First Skill: {"id":4,"name":"Heal","type":1}
+10:17:28:753 -- Skills after splice: 
+[{"id":6,"name":"Shield","type":1},{"id":1,"name":"Weak Attack","type":0},{"id":3,"name":"Risky Attack","type":0}]
+10:17:28:757 -- New Skills: 
+[{"id":6,"name":"Shield","type":1},{"id":1,"name":"Weak Attack","type":0},{"id":3,"name":"Risky Attack","type":0},{"id":4,"name":"Heal","type":1}]
+10:17:28:761 ------------------------------------
+10:17:28:772 Update Skills for Player: Wiener Schnitzel
+10:17:28:777 -- Old Skills: 
+[{"id":8,"name":"Dodge","type":1},{"id":5,"name":"Power Heal","type":1},{"id":3,"name":"Risky Attack","type":0},{"id":1,"name":"Weak Attack","type":0}]
+10:17:28:785 -- First Skill: {"id":8,"name":"Dodge","type":1}
+10:17:28:788 -- Skills after splice: 
+[{"id":5,"name":"Power Heal","type":1},{"id":3,"name":"Risky Attack","type":0},{"id":1,"name":"Weak Attack","type":0}]
+10:17:28:801 -- New Skills: 
+[{"id":5,"name":"Power Heal","type":1},{"id":3,"name":"Risky Attack","type":0},{"id":1,"name":"Weak Attack","type":0},{"id":8,"name":"Dodge","type":1}]
+10:17:28:805 ------------------------------------
+10:17:28:811 ---- Wiener Wurst Status:
+{"hit_chance":100,"crit_chance":0,"block_chance":0,"reflect_chance":0,"skills":[{"id":6,"name":"Shield","type":1},{"id":1,"name":"Weak Attack","type":0},{"id":3,"name":"Risky Attack","type":0},{"id":4,"name":"Heal","type":1}],"name":"Wiener Wurst","strength":6,"constitution":18,"damage":7.800000000000001,"health":54,"max_health":54}
+10:17:28:820 ---- Wiener Schnitzel Status:
+{"hit_chance":100,"crit_chance":0,"block_chance":0,"reflect_chance":0,"skills":[{"id":5,"name":"Power Heal","type":1},{"id":3,"name":"Risky Attack","type":0},{"id":1,"name":"Weak Attack","type":0},{"id":8,"name":"Dodge","type":1}],"name":"Wiener Schnitzel","strength":6,"constitution":11,"damage":7.800000000000001,"health":5.699999999999999,"max_health":33}
+10:17:28:825 
+
+
+10:17:28:835 ************************************
+10:17:28:839 ************ ROUND 10   ************
+10:17:28:844 ************************************
+10:17:28:855 ------------------------------------
+10:17:28:859 -- Using Skills
+10:17:28:869 -- Defensive Skill for Player 1
+10:17:28:873 -- Wiener Wurst uses Shield!
+10:17:28:891 -- Wiener Wurst Block-Chance: 100
+10:17:28:900 -- Defensive Skills for Player 2
+10:17:28:907 -- Wiener Schnitzel uses PowerHeal!
+10:17:28:917 -- Wiener Schnitzel Health: 5.699999999999999
+10:17:28:921 -- Wiener Schnitzel Max Health: 33
+10:17:28:927 -- Wiener Schnitzel New Health: 25.7
+10:17:28:943 ------------------------------------
+10:17:28:946 --  Reset Stats 
+10:17:28:955 ------------------------------------
+10:17:28:960 -- Player Wiener Wurst:
+{"hit_chance":100,"crit_chance":0,"block_chance":100,"reflect_chance":0,"skills":[{"id":6,"name":"Shield","type":1},{"id":1,"name":"Weak Attack","type":0},{"id":3,"name":"Risky Attack","type":0},{"id":4,"name":"Heal","type":1}],"name":"Wiener Wurst","strength":6,"constitution":18,"damage":7.800000000000001,"health":54,"max_health":54}
+10:17:28:969 -- NEW Player Wiener Wurst:
+{"hit_chance":100,"crit_chance":0,"block_chance":0,"reflect_chance":0,"skills":[{"id":6,"name":"Shield","type":1},{"id":1,"name":"Weak Attack","type":0},{"id":3,"name":"Risky Attack","type":0},{"id":4,"name":"Heal","type":1}],"name":"Wiener Wurst","strength":6,"constitution":18,"damage":7.800000000000001,"health":54,"max_health":54}
+10:17:28:975 -- Player Wiener Schnitzel:
+{"hit_chance":100,"crit_chance":0,"block_chance":0,"reflect_chance":0,"skills":[{"id":5,"name":"Power Heal","type":1},{"id":3,"name":"Risky Attack","type":0},{"id":1,"name":"Weak Attack","type":0},{"id":8,"name":"Dodge","type":1}],"name":"Wiener Schnitzel","strength":6,"constitution":11,"damage":7.800000000000001,"health":25.7,"max_health":33}
+10:17:28:982 -- NEW Player Wiener Schnitzel:
+{"hit_chance":100,"crit_chance":0,"block_chance":0,"reflect_chance":0,"skills":[{"id":5,"name":"Power Heal","type":1},{"id":3,"name":"Risky Attack","type":0},{"id":1,"name":"Weak Attack","type":0},{"id":8,"name":"Dodge","type":1}],"name":"Wiener Schnitzel","strength":6,"constitution":11,"damage":7.800000000000001,"health":25.7,"max_health":33}
+10:17:28:993 ------------------------------------
+10:17:29:16 Update Skills for Player: Wiener Wurst
+10:17:29:22 -- Old Skills: 
+[{"id":6,"name":"Shield","type":1},{"id":1,"name":"Weak Attack","type":0},{"id":3,"name":"Risky Attack","type":0},{"id":4,"name":"Heal","type":1}]
+10:17:29:31 -- First Skill: {"id":6,"name":"Shield","type":1}
+10:17:29:38 -- Skills after splice: 
+[{"id":1,"name":"Weak Attack","type":0},{"id":3,"name":"Risky Attack","type":0},{"id":4,"name":"Heal","type":1}]
+10:17:29:43 -- New Skills: 
+[{"id":1,"name":"Weak Attack","type":0},{"id":3,"name":"Risky Attack","type":0},{"id":4,"name":"Heal","type":1},{"id":6,"name":"Shield","type":1}]
+10:17:29:47 ------------------------------------
+10:17:29:49 Update Skills for Player: Wiener Schnitzel
+10:17:29:56 -- Old Skills: 
+[{"id":5,"name":"Power Heal","type":1},{"id":3,"name":"Risky Attack","type":0},{"id":1,"name":"Weak Attack","type":0},{"id":8,"name":"Dodge","type":1}]
+10:17:29:60 -- First Skill: {"id":5,"name":"Power Heal","type":1}
+10:17:29:70 -- Skills after splice: 
+[{"id":3,"name":"Risky Attack","type":0},{"id":1,"name":"Weak Attack","type":0},{"id":8,"name":"Dodge","type":1}]
+10:17:29:74 -- New Skills: 
+[{"id":3,"name":"Risky Attack","type":0},{"id":1,"name":"Weak Attack","type":0},{"id":8,"name":"Dodge","type":1},{"id":5,"name":"Power Heal","type":1}]
+10:17:29:81 ------------------------------------
+10:17:29:87 ---- Wiener Wurst Status:
+{"hit_chance":100,"crit_chance":0,"block_chance":0,"reflect_chance":0,"skills":[{"id":1,"name":"Weak Attack","type":0},{"id":3,"name":"Risky Attack","type":0},{"id":4,"name":"Heal","type":1},{"id":6,"name":"Shield","type":1}],"name":"Wiener Wurst","strength":6,"constitution":18,"damage":7.800000000000001,"health":54,"max_health":54}
+10:17:29:92 ---- Wiener Schnitzel Status:
+{"hit_chance":100,"crit_chance":0,"block_chance":0,"reflect_chance":0,"skills":[{"id":3,"name":"Risky Attack","type":0},{"id":1,"name":"Weak Attack","type":0},{"id":8,"name":"Dodge","type":1},{"id":5,"name":"Power Heal","type":1}],"name":"Wiener Schnitzel","strength":6,"constitution":11,"damage":7.800000000000001,"health":25.7,"max_health":33}
+10:17:29:102 
+
+
+10:17:29:106 ************************************
+10:17:29:110 ************ ROUND 11   ************
+10:17:29:119 ************************************
+10:17:29:123 ------------------------------------
+10:17:29:133 -- Using Skills
+10:17:29:137 -- Attacking Skill for Player 1
+10:17:29:209 -- Wiener Wurst does a weakAttack!
+10:17:29:238 ---- Wiener Wurst does 3.9000000000000004  Damage
+10:17:29:251 ---- Defender Health: 25.7
+10:17:29:256 ---- Defender New Health: 21.799999999999997
+10:17:29:266 -- Attacking Skill for Player 2
+10:17:29:272 -- Wiener Schnitzel does a riskyAttack!
+10:17:29:277 ---- But missed!
+10:17:29:343 ---- Attacker Hit-Chance: 0 Random Num: 42.02130439342595
+10:17:29:396 ------------------------------------
+10:17:29:424 --  Reset Stats 
+10:17:29:439 ------------------------------------
+10:17:29:453 -- Player Wiener Wurst:
+{"hit_chance":100,"crit_chance":0,"block_chance":0,"reflect_chance":0,"skills":[{"id":1,"name":"Weak Attack","type":0},{"id":3,"name":"Risky Attack","type":0},{"id":4,"name":"Heal","type":1},{"id":6,"name":"Shield","type":1}],"name":"Wiener Wurst","strength":6,"constitution":18,"damage":7.800000000000001,"health":54,"max_health":54}
+10:17:29:460 -- NEW Player Wiener Wurst:
+{"hit_chance":100,"crit_chance":0,"block_chance":0,"reflect_chance":0,"skills":[{"id":1,"name":"Weak Attack","type":0},{"id":3,"name":"Risky Attack","type":0},{"id":4,"name":"Heal","type":1},{"id":6,"name":"Shield","type":1}],"name":"Wiener Wurst","strength":6,"constitution":18,"damage":7.800000000000001,"health":54,"max_health":54}
+10:17:29:470 -- Player Wiener Schnitzel:
+{"hit_chance":0,"crit_chance":50,"block_chance":0,"reflect_chance":0,"skills":[{"id":3,"name":"Risky Attack","type":0},{"id":1,"name":"Weak Attack","type":0},{"id":8,"name":"Dodge","type":1},{"id":5,"name":"Power Heal","type":1}],"name":"Wiener Schnitzel","strength":6,"constitution":11,"damage":7.800000000000001,"health":21.799999999999997,"max_health":33}
+10:17:29:476 -- NEW Player Wiener Schnitzel:
+{"hit_chance":100,"crit_chance":0,"block_chance":0,"reflect_chance":0,"skills":[{"id":3,"name":"Risky Attack","type":0},{"id":1,"name":"Weak Attack","type":0},{"id":8,"name":"Dodge","type":1},{"id":5,"name":"Power Heal","type":1}],"name":"Wiener Schnitzel","strength":6,"constitution":11,"damage":7.800000000000001,"health":21.799999999999997,"max_health":33}
+10:17:29:483 ------------------------------------
+10:17:29:490 Update Skills for Player: Wiener Wurst
+10:17:29:495 -- Old Skills: 
+[{"id":1,"name":"Weak Attack","type":0},{"id":3,"name":"Risky Attack","type":0},{"id":4,"name":"Heal","type":1},{"id":6,"name":"Shield","type":1}]
+10:17:29:506 -- First Skill: {"id":1,"name":"Weak Attack","type":0}
+10:17:29:516 -- Skills after splice: 
+[{"id":3,"name":"Risky Attack","type":0},{"id":4,"name":"Heal","type":1},{"id":6,"name":"Shield","type":1}]
+10:17:29:521 -- New Skills: 
+[{"id":3,"name":"Risky Attack","type":0},{"id":4,"name":"Heal","type":1},{"id":6,"name":"Shield","type":1},{"id":1,"name":"Weak Attack","type":0}]
+10:17:29:525 ------------------------------------
+10:17:29:534 Update Skills for Player: Wiener Schnitzel
+10:17:29:538 -- Old Skills: 
+[{"id":3,"name":"Risky Attack","type":0},{"id":1,"name":"Weak Attack","type":0},{"id":8,"name":"Dodge","type":1},{"id":5,"name":"Power Heal","type":1}]
+10:17:29:552 -- First Skill: {"id":3,"name":"Risky Attack","type":0}
+10:17:29:557 -- Skills after splice: 
+[{"id":1,"name":"Weak Attack","type":0},{"id":8,"name":"Dodge","type":1},{"id":5,"name":"Power Heal","type":1}]
+10:17:29:566 -- New Skills: 
+[{"id":1,"name":"Weak Attack","type":0},{"id":8,"name":"Dodge","type":1},{"id":5,"name":"Power Heal","type":1},{"id":3,"name":"Risky Attack","type":0}]
+10:17:29:568 ------------------------------------
+10:17:29:570 ---- Wiener Wurst Status:
+{"hit_chance":100,"crit_chance":0,"block_chance":0,"reflect_chance":0,"skills":[{"id":3,"name":"Risky Attack","type":0},{"id":4,"name":"Heal","type":1},{"id":6,"name":"Shield","type":1},{"id":1,"name":"Weak Attack","type":0}],"name":"Wiener Wurst","strength":6,"constitution":18,"damage":7.800000000000001,"health":54,"max_health":54}
+10:17:29:587 ---- Wiener Schnitzel Status:
+{"hit_chance":100,"crit_chance":0,"block_chance":0,"reflect_chance":0,"skills":[{"id":1,"name":"Weak Attack","type":0},{"id":8,"name":"Dodge","type":1},{"id":5,"name":"Power Heal","type":1},{"id":3,"name":"Risky Attack","type":0}],"name":"Wiener Schnitzel","strength":6,"constitution":11,"damage":7.800000000000001,"health":21.799999999999997,"max_health":33}
+10:17:29:623 
+
+
+10:17:29:629 ************************************
+10:17:29:636 ************ ROUND 12   ************
+10:17:29:640 ************************************
+10:17:29:645 ------------------------------------
+10:17:29:652 -- Using Skills
+10:17:29:656 -- Attacking Skill for Player 1
+10:17:29:660 -- Wiener Wurst does a riskyAttack!
+10:17:29:668 ---- Critical Strike!
+10:17:29:672 ---- Attacker Crit-Chance: 50 Random Num: 23.634350126396832
+10:17:29:674 ---- Wiener Wurst does 23.400000000000002  Damage
+10:17:29:676 ---- Defender Health: 21.799999999999997
+10:17:29:690 ---- Defender New Health: -1.600000000000005
+10:17:29:694 -- Attacking Skill for Player 2
+10:17:29:703 -- Wiener Schnitzel does a weakAttack!
+10:17:29:708 ---- Wiener Schnitzel does 3.9000000000000004  Damage
+10:17:29:713 ---- Defender Health: 54
+10:17:29:719 ---- Defender New Health: 50.1
+10:17:29:722 ------------------------------------
+10:17:29:732 --  Reset Stats 
+10:17:29:741 ------------------------------------
+10:17:29:758 -- Player Wiener Wurst:
+{"hit_chance":100,"crit_chance":50,"block_chance":0,"reflect_chance":0,"skills":[{"id":3,"name":"Risky Attack","type":0},{"id":4,"name":"Heal","type":1},{"id":6,"name":"Shield","type":1},{"id":1,"name":"Weak Attack","type":0}],"name":"Wiener Wurst","strength":6,"constitution":18,"damage":7.800000000000001,"health":50.1,"max_health":54}
+10:17:29:766 -- NEW Player Wiener Wurst:
+{"hit_chance":100,"crit_chance":0,"block_chance":0,"reflect_chance":0,"skills":[{"id":3,"name":"Risky Attack","type":0},{"id":4,"name":"Heal","type":1},{"id":6,"name":"Shield","type":1},{"id":1,"name":"Weak Attack","type":0}],"name":"Wiener Wurst","strength":6,"constitution":18,"damage":7.800000000000001,"health":50.1,"max_health":54}
+10:17:29:772 -- Player Wiener Schnitzel:
+{"hit_chance":100,"crit_chance":0,"block_chance":0,"reflect_chance":0,"skills":[{"id":1,"name":"Weak Attack","type":0},{"id":8,"name":"Dodge","type":1},{"id":5,"name":"Power Heal","type":1},{"id":3,"name":"Risky Attack","type":0}],"name":"Wiener Schnitzel","strength":6,"constitution":11,"damage":7.800000000000001,"health":-1.600000000000005,"max_health":33}
+10:17:29:777 -- NEW Player Wiener Schnitzel:
+{"hit_chance":100,"crit_chance":0,"block_chance":0,"reflect_chance":0,"skills":[{"id":1,"name":"Weak Attack","type":0},{"id":8,"name":"Dodge","type":1},{"id":5,"name":"Power Heal","type":1},{"id":3,"name":"Risky Attack","type":0}],"name":"Wiener Schnitzel","strength":6,"constitution":11,"damage":7.800000000000001,"health":-1.600000000000005,"max_health":33}
+10:17:29:779 ------------------------------------
+10:17:29:785 Update Skills for Player: Wiener Wurst
+10:17:29:801 -- Old Skills: 
+[{"id":3,"name":"Risky Attack","type":0},{"id":4,"name":"Heal","type":1},{"id":6,"name":"Shield","type":1},{"id":1,"name":"Weak Attack","type":0}]
+10:17:29:806 -- First Skill: {"id":3,"name":"Risky Attack","type":0}
+10:17:29:810 -- Skills after splice: 
+[{"id":4,"name":"Heal","type":1},{"id":6,"name":"Shield","type":1},{"id":1,"name":"Weak Attack","type":0}]
+10:17:29:819 -- New Skills: 
+[{"id":4,"name":"Heal","type":1},{"id":6,"name":"Shield","type":1},{"id":1,"name":"Weak Attack","type":0},{"id":3,"name":"Risky Attack","type":0}]
+10:17:29:825 ------------------------------------
+10:17:29:834 Update Skills for Player: Wiener Schnitzel
+10:17:29:838 -- Old Skills: 
+[{"id":1,"name":"Weak Attack","type":0},{"id":8,"name":"Dodge","type":1},{"id":5,"name":"Power Heal","type":1},{"id":3,"name":"Risky Attack","type":0}]
+10:17:29:842 -- First Skill: {"id":1,"name":"Weak Attack","type":0}
+10:17:29:857 -- Skills after splice: 
+[{"id":8,"name":"Dodge","type":1},{"id":5,"name":"Power Heal","type":1},{"id":3,"name":"Risky Attack","type":0}]
+10:17:29:866 -- New Skills: 
+[{"id":8,"name":"Dodge","type":1},{"id":5,"name":"Power Heal","type":1},{"id":3,"name":"Risky Attack","type":0},{"id":1,"name":"Weak Attack","type":0}]
+10:17:29:871 ------------------------------------
+10:17:29:875 ---- Wiener Wurst Status:
+{"hit_chance":100,"crit_chance":0,"block_chance":0,"reflect_chance":0,"skills":[{"id":4,"name":"Heal","type":1},{"id":6,"name":"Shield","type":1},{"id":1,"name":"Weak Attack","type":0},{"id":3,"name":"Risky Attack","type":0}],"name":"Wiener Wurst","strength":6,"constitution":18,"damage":7.800000000000001,"health":50.1,"max_health":54}
+10:17:29:887 ---- Wiener Schnitzel Status:
+{"hit_chance":100,"crit_chance":0,"block_chance":0,"reflect_chance":0,"skills":[{"id":8,"name":"Dodge","type":1},{"id":5,"name":"Power Heal","type":1},{"id":3,"name":"Risky Attack","type":0},{"id":1,"name":"Weak Attack","type":0}],"name":"Wiener Schnitzel","strength":6,"constitution":11,"damage":7.800000000000001,"health":-1.600000000000005,"max_health":33}
+10:17:29:892 
+
+
+10:17:29:906 ************************************
+10:17:29:910 ************  RESULTS:  ************
+10:17:29:919 ************************************
+
+
+10:17:29:935 ************************************
+10:17:29:941 ************   WINNER   ************
+10:17:29:958 ************************************
+10:17:29:969 Wiener Wurst
+
+
+10:17:29:974 ************************************
+10:17:29:983 ************   LOOSER   ************
+10:17:29:988 ************************************
+10:17:29:992 Wiener Schnitzel
+
+
+10:17:30:2 ---- Wiener Wurst Status:
+{"hit_chance":100,"crit_chance":0,"block_chance":0,"reflect_chance":0,"skills":[{"id":4,"name":"Heal","type":1},{"id":6,"name":"Shield","type":1},{"id":1,"name":"Weak Attack","type":0},{"id":3,"name":"Risky Attack","type":0}],"name":"Wiener Wurst","strength":6,"constitution":18,"damage":7.800000000000001,"health":50.1,"max_health":54}
+10:17:30:4 ---- Wiener Schnitzel Status:
+{"hit_chance":100,"crit_chance":0,"block_chance":0,"reflect_chance":0,"skills":[{"id":8,"name":"Dodge","type":1},{"id":5,"name":"Power Heal","type":1},{"id":3,"name":"Risky Attack","type":0},{"id":1,"name":"Weak Attack","type":0}],"name":"Wiener Schnitzel","strength":6,"constitution":11,"damage":7.800000000000001,"health":-1.600000000000005,"max_health":33}
