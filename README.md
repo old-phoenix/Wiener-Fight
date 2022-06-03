@@ -3,7 +3,7 @@ I created this game for a job application!
 
 How to install:
 
-<i>1. Download Files </i>
-<i>2. Install Dependencies: npm install </i>
-<i>3. Compile Scripts: tsc app.ts </i>
-<i>4. Run Scripts: ts-node app.ts </i>
+<p>1. Download Files </p>
+<p>2. Install Dependencies: <i> npm install </i></p>
+<p>3. Compile Scripts: <i> tsc app.ts </i></p>
+<p>4. Run Scripts: <i> ts-node app.ts </i></p>
