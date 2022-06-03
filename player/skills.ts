@@ -490,7 +490,7 @@ export class Skills{
         //generate random number
         let hit_rnd:number = Math.random() * 100;
         
-        //random number is lower or same -> lucky player
+        //random number is higher -> lucky player
         if(hit_rnd > hit_chance){
             Utils.LogStatus('---- But missed!');
             Utils.LogStatus('---- Attacker Hit-Chance: '+hit_chance+' Random Num: '+hit_rnd);
